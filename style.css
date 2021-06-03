@@ -1,0 +1,41 @@
+.rightheader{
+  text-align: right;
+  color: black;
+  padding-top: 1pc;
+  display: inline;  
+}
+
+.leftheader {
+    text-align: left;
+    color: black;
+    padding-top: 1pc;
+    display: inline;
+
+}
+
+body {
+  color: white;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 50;
+}
+
+.input_form {
+height: 44px;
+width: 590px;
+border-radius: 30px;
+border: 1px solid #b8bbb3;
+padding: 20px;
+
+}
+
+.footerDiv {
+background-color: rgb(212, 209, 209);
+bottom: 0;
+position: fixed;
+text-align: center;
+padding-top: 3px;
+color: light rgb(180, 180, 180);
+}
