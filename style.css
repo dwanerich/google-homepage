@@ -30,12 +30,20 @@ border: 1px solid #b8bbb3;
 padding: 20px;
 
 }
+.searchEngine {
+    border-radius: 25px;
+    border: 1px solid rgb(191, 189, 192);
+    padding: 20px; 
+    width: 400px;
+    height: 15px;
+    outline: none;
+}
 
 .footerDiv {
-background-color: rgb(212, 209, 209);
+background-color: rgb(236, 233, 233);
 bottom: 0;
 position: fixed;
-text-align: center;
 padding-top: 3px;
 color: light rgb(180, 180, 180);
+text-align: center;
 }
